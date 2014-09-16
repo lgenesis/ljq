@@ -2,7 +2,7 @@
 /* Copyright (C)  SSE@USTC, 2014-2015                                                             */
 /*                                                                                                */
 /*  FILE NAME             :  menu.c                                                               */
-/*  PRINCIPAL AUTHOR      :  liujiaqi                                                           */
+/*  PRINCIPAL AUTHOR      :  liujiaqi                                                             */
 /*  STUDENT NUMBER        :  JG14225082                                                           */
 /*  SUBSYSTEM NAME        :  menu                                                                 */
 /*  MODULE NAME           :  menu                                                                 */
